@@ -33,3 +33,7 @@ function letterCombinations(digits) {
 
   return result;
 }
+
+
+
+module.exports = letterCombinations;
